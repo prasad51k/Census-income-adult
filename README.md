@@ -37,6 +37,3 @@
 ## Conclusion:
 - In this project, we build various models like logistic regression, knn classifier, support vector classifier, decision tree classifier, random forest classifier and xgboost classifier.
 - A hyperparameter tuned random forest classifier gives the highest accuracy score of 92.77 and f1 score of 93.08.
-
-## Future Work:
-- We have a large enough dataset, so we can use neural networks such as an artificial neural network to build a model which can result in better performance.
